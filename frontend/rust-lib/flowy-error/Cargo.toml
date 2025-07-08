@@ -9,7 +9,7 @@ edition = "2018"
 flowy-derive = { path = "../../../shared-lib/flowy-derive" }
 flowy-error-code = { path = "../../../shared-lib/flowy-error-code"}
 lib-dispatch = { path = "../lib-dispatch" }
-protobuf = {version = "2.20.0"}
+protobuf = {version = "3.7.2"}
 bytes = "1.0"
 
 
